@@ -1,0 +1,10 @@
+h1 {
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lavender;
+    color: lightcoral;
+    border-radius: 3px;
+    text-align: center;
+    padding: 5px;
+
+}
